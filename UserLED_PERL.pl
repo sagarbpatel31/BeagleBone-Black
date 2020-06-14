@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 # A small Perl script to set up User LED3 to be turned on or off from 
-#  Linux console. Written by Derek Molloy (derekmolloy.ie) for the 
-#  book Exploring BeagleBone.
+#  Linux console. Written by Sagar B Patel
 
 $LED3_PATH = "/sys/class/leds/beaglebone:green:usr3";
 $command = $ARGV[0];
