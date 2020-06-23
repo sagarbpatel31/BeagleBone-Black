@@ -3,8 +3,8 @@ import time
 import Adafruit_CharLCD as LCD
 import Adafruit_BBIO.GPIO as GPIO
 
-login = 'sagarp3199@gmail.com'
-password = '399ansimla2603'
+login = 'xxxx@gmail.com'
+password = 'your password'
 
 lcd_rs = 'P8_8'
 lcd_en = 'P8_10'
